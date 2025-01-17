@@ -15,7 +15,7 @@ spec:
     secretName: bankapp-tls-secret
   ingressClassName: nginx
   rules:
-  - host: "amitabh.letsdeployit.com"
+  - host: "bankapp.prasannasivaneni.click"
     http:
       paths:
       - path: /
