@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: amitabhdevops/mega-project:v1
+        image: sprasanna1992/bankapp:latest
         ports:
         - containerPort: 8080
         resources:
