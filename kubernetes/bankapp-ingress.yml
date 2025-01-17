@@ -11,7 +11,7 @@ metadata:
 spec:
   tls:
   - hosts:
-    - amitabh.letsdeployit.com
+    - bankapp.prasannasivaneni.click
     secretName: bankapp-tls-secret
   ingressClassName: nginx
   rules:
