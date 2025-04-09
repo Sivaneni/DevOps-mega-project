@@ -11,4 +11,4 @@ spec:
   resources:
     requests:
       storage: 10Gi
-  storageClassName: standard
+  storageClassName: gp2 # Make sure this matches your cluster's default storage class
